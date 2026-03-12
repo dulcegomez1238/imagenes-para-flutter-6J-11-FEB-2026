@@ -9,3 +9,5 @@ AQUI LAS IMAGENES PARA MI APLICACION
 
 
 <img width="221" height="187" alt="rosas" src="https://github.com/user-attachments/assets/faa0d77e-54a6-49cf-a28a-368b6dcd297c" />
+
+<img width="1920" height="2560" alt="image" src="https://github.com/user-attachments/assets/418d91e3-cfdc-46da-93d2-3b74e78059b8" />
