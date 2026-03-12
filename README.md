@@ -3,11 +3,5 @@ AQUI LAS IMAGENES PARA MI APLICACION
 
 ![flores](https://github.com/user-attachments/assets/4a57284e-3fdc-4de1-9082-5709b0eb4291)
 
-<img width="1920" height="2560" alt="image" src="https://github.com/user-attachments/assets/5c7aa29b-7821-4768-92c1-568bbf549b34" />
-
-<img width="256" height="177" alt="tulipanes" src="https://github.com/user-attachments/assets/29a417f1-f8d2-4e1e-96be-3ead4898957d" />
-
-
-<img width="221" height="187" alt="rosas" src="https://github.com/user-attachments/assets/faa0d77e-54a6-49cf-a28a-368b6dcd297c" />
-
-<img width="1920" height="2560" alt="image" src="https://github.com/user-attachments/assets/418d91e3-cfdc-46da-93d2-3b74e78059b8" />
+![girasoles](https://github.com/user-attachments/assets/cc9844ed-8529-47df-b60a-95a25652a246)
+![rojas](https://github.com/user-attachments/assets/1275ddb4-adba-417d-9e93-19aee8af46e2)
